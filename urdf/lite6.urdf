@@ -27,14 +27,14 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="../meshes/lite6/visual/link_base.stl"/>
+        <mesh filename="../meshes/lite6/visual/base.stl"/>
       </geometry>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <material name="White"/>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="../meshes/lite6/collision/link_base.stl"/>
+        <mesh filename="../meshes/lite6/collision/base.stl"/>
       </geometry>
       <origin rpy="0 0 0" xyz="0 0 0"/>
     </collision>
